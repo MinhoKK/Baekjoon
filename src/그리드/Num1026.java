@@ -1,3 +1,4 @@
+package 그리드;
 import java.util.Scanner;
 import java.util.Arrays;
 
